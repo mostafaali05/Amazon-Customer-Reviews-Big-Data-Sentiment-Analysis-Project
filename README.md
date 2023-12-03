@@ -52,8 +52,10 @@ Future Scope
 Extend analysis to include more complex models like Neural Networks or BERT for deeper sentiment analysis.
 Incorporate more nuanced sentiment classification (e.g., neutral, mixed).
 Explore the impact of reviews on product sales.
+
 Contact
 Name: Mostafa Murshad Ali
+
 Emails:
 mostafamurshad.ali@baruchmail.cuny.edu
 mostafamurshadali@gmail.com
