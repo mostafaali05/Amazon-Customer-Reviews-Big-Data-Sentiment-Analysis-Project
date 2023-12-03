@@ -51,7 +51,7 @@ Key attributes of the dataset include:
 - Various plots were created to visualize actual vs. predicted results, confusion matrices, and ROC curves.
 
 ## Tools and Technologies
-- Python, PySpark
+- Python, PySpark, Hadoop, Pandas, Numpy
 - Amazon EC2, Amazon S3, Databricks
 - Kaggle API
 - Matplotlib, Seaborn for visualizations
@@ -73,8 +73,9 @@ Key attributes of the dataset include:
 
 - **Name**: Mostafa Murshad Ali
 - **Emails**: 
-  - mostafamurshad.ali@baruchmail.cuny.edu
-  - mostafamurshadali@gmail.com
+  - mostafamurshad.ali@baruchmail.cuny.edu (school)
+  - mostafamurshadali@gmail.com (personal)
+- **LinkedIn**: https://www.linkedin.com/in/mostafa-murshad-ali/
 
 ---
 
